@@ -16,4 +16,4 @@ To use the Paint Application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/yousseffayed139/Paint-App.git]
+   git clone https://github.com/yousseffayed139/Paint-App.git
